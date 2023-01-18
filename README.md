@@ -5,7 +5,8 @@ Leadership README for Joel Mollon
 Hi, I'm Joel.
 
 Here are a few data points:
-- Project Manager by trade, I've worked for companies like Boeing, Ford, Fiat Chrysler, MSUFCU, and North American Bancard
+- Project Manager by trade, I've worked for companies like Boeing, Ford, Fiat Chrysler, MSUFCU, Payanywhere.com, HHIT, and Rocket Mortgage
+- I enjoy working in many different environments.  I've been in Fortune 500 and startup orgs and have been equally successful in both.
 - Occasional homebrewer - I've developed a passible Pale Ale and have recently started brewing kombucha
 - Camping enthusiast - we do multiple trips every year with a 1968 Apache Mesa
 - Married with two kids
