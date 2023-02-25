@@ -1,6 +1,3 @@
-# README
-Leadership README for Joel Mollon
-
 ## About Me
 Hi, I'm Joel.
 
